@@ -5,7 +5,7 @@ categories: [Android]
 tags: [Android,ClassyShark,架构]
 ---
 
-App应用本质上是一个apk包, 即一个zip包, 可以直接显示其中的内容. 通过apk文件, 我们可以获知apk的版本信息, so库和第三方库, 并了解一些主流公司的应用框架. 分析工具主要是[ApkTool](http://www.jianshu.com/p/285b134a3e15)和[ClassyShark](https://github.com/google/android-classyshark), 本人比较喜欢Shark工具. 我使用ClassyShark分析一下美团的框架, 也可以按照这个原理, 分析其他App的基本架构.
+App应用本质上是一个apk包, 即一个zip包, 可以直接显示其中的内容. 通过apk文件, 我们可以获知apk的版本信息, so库和第三方库, 并了解一些主流公司的应用框架. 分析工具主要是ApkTool和[ClassyShark](https://github.com/google/android-classyshark), 本人比较喜欢Shark工具. 我使用ClassyShark分析一下美团的框架, 也可以按照这个原理, 分析其他App的基本架构.
 
 让我们看看, 有什么好玩且有用的架构信息?
 
@@ -86,7 +86,7 @@ net, lingala, 处理zip压缩的库.
 美团是一个技术非常Open的公司, 使用主流的开源框架, 减少开发成本. 
 这些开源库, 我也均有涉猎, 都是非常优秀的库, 不了解的朋友可以学习一下.
 虽然方法很多, 但是使用开源库, 会大大减少开发成本, 增强应用稳定性.
-[Dagger](http://www.wangchenlong.org/2016/03/16/use-dagger-first/)+[Retrofit](http://www.wangchenlong.org/2016/03/16/use-retrofit-first/)+RxJava的业内标配, 美团也有所涉猎, 非常不错.
+[Dagger](http://www.wangchenlong.org/2016/03/16/1602/use-dagger-first/)+[Retrofit](http://www.wangchenlong.org/2016/03/16/1602/use-retrofit-first/)+RxJava的业内标配, 美团也有所涉猎, 非常不错.
 
 > 备注:
 [ClassyShark](https://github.com/google/android-classyshark)是查看Apk信息的软件, 功能非常强大, 省去反编译的步骤. 主要功能: 查看MultiDex的dex信息, 使用的NativeLibrary, 类和方法的数量统计.
@@ -109,7 +109,7 @@ OK, that's all! Enjoy it.
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/17/analyze-app-framework/
+> http://www.wangchenlong.org/2016/03/17/1602/analyze-app-framework/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.
 

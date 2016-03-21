@@ -13,7 +13,7 @@ tags: [Android,SVG,Vector,动画]
 > 更多: http://www.wangchenlong.org/
 
 关于*Vectors时代*, 主要分为两节:
-(1) 使用SVG格式图片生成Vector图像, 替换PNG, 缩减应用体积, [参考](http://www.wangchenlong.org/2016/03/15/replace-svg-image/)
+(1) 使用SVG格式图片生成Vector图像, 替换PNG, 缩减应用体积, [参考](http://www.wangchenlong.org/2016/03/15/1602/replace-svg-image/)
 (2) 绘制Vector图像的路径动画, 增强用户体验, Android 5.0(21)以上系统使用.
 
 ![Android](svg-path-animation/svg-android.jpg)
@@ -34,7 +34,7 @@ SDK Manager提示支持库更新
 
 ## Vector图像
 
-SVG格式的图片, 转换为Vector图像资源, 可以使用AS2.0的转换工具, 也可以是在线转换工具, [参考](http://www.jianshu.com/p/89879989895a). 图像需要路径(path)样式, 便于绘制, 如
+SVG格式的图片, 转换为Vector图像资源, 可以使用AS2.0的转换工具, 也可以是在线转换工具, [参考](http://www.wangchenlong.org/2016/03/15/1602/replace-svg-image/). 图像需要路径(path)样式, 便于绘制, 如
 ```xml
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
         android:width="256dp"
@@ -119,6 +119,6 @@ SVG格式的图片, 转换为Vector图像资源, 可以使用AS2.0的转换工�
 OK, that's all! Enjoy it!
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/15/svg-path-animation/
+> http://www.wangchenlong.org/2016/03/15/1602/svg-path-animation/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

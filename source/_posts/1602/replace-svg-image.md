@@ -14,7 +14,7 @@ tags: [Android,SVG,Vector,优化]
 
 关于*Vectors时代*, 主要分为两节:
 (1) 使用SVG格式图片生成Vector图像, 替换PNG, 缩减应用体积.
-(2) 绘制Vector图像的路径动画, 增强用户体验, Android 5.0(21)以上系统使用, [参考](http://www.wangchenlong.org/2016/03/15/svg-path-animation/).
+(2) 绘制Vector图像的路径动画, 增强用户体验, Android 5.0(21)以上系统使用, [参考](http://www.wangchenlong.org/2016/03/15/1602/svg-path-animation/).
 
 > SVG: Scalable Vector Graphics, 可缩放矢量图形.
 > IRI: Internationalized Resource Identifiers, 国际化资源标识符.
@@ -69,6 +69,6 @@ Android Studio 2.0
 OK, that's all! Enjoy it.
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/15/replace-svg-image/
+> http://www.wangchenlong.org/2016/03/15/1602/replace-svg-image/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

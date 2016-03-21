@@ -5,7 +5,7 @@ categories: [Android]
 tags: [Android,MAT,内存]
 ---
 
-[**MAT(Memory Analyzer Tool)**](http://www.eclipse.org/mat/), 是著名的Android内存分析工具, 虽然[LeakCanary](http://www.wangchenlong.org/2016/03/14/use-leak-canary-check-memory/)更加便捷, 但是MAT可以清楚地获知整体内存使用情况, 还是必须要掌握的. 我来讲解一下如何使用.
+[**MAT(Memory Analyzer Tool)**](http://www.eclipse.org/mat/), 是著名的Android内存分析工具, 虽然[LeakCanary](http://www.wangchenlong.org/2016/03/14/1602/use-leak-canary-check-memory/)更加便捷, 但是MAT可以清楚地获知整体内存使用情况, 还是必须要掌握的. 我来讲解一下如何使用.
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
@@ -76,11 +76,11 @@ Activity或View大于1个对象, 都有可能发生内存泄露.
 
 ---
 
-其实还比较复杂, 简单的方法是使用LeakCanary, [参考](http://www.wangchenlong.org/2016/03/14/use-leak-canary-check-memory/). 
+其实还比较复杂, 简单的方法是使用LeakCanary, [参考](http://www.wangchenlong.org/2016/03/14/1602/use-leak-canary-check-memory/). 
 
 OK, that's all! Enjoy it!
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/14/use-mat-analyze-memory/
+> http://www.wangchenlong.org/2016/03/14/1602/use-mat-analyze-memory/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

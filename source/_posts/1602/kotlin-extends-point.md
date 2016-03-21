@@ -8,8 +8,8 @@ tags: [Android,Kotlin]
 Kotlin由JetBrains公司推出, 是兼容Java的一种编程语言, 也可以用来开发Android. Kotlin的代码简洁, 非常优雅, 对于Android也是非常友好, 拥有大量新语言特性, 适合开发. 
 
 分为两个部分:
-基础[参考](http://www.wangchenlong.org/2016/03/15/kotlin-first/): **初探与集成Android项目**
-扩展[参考](http://www.wangchenlong.org/2016/03/15/kotlin-extends-point/): **优雅地扩展类的方法和属性**
+基础[参考](http://www.wangchenlong.org/2016/03/15/1602/kotlin-first/): **初探与集成Android项目**
+扩展[参考](http://www.wangchenlong.org/2016/03/15/1602/kotlin-extends-point/): **优雅地扩展类的方法和属性**
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
@@ -159,6 +159,6 @@ OK, that's all! Enjoy it!
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/15/kotlin-extends-point/
+> http://www.wangchenlong.org/2016/03/15/1602/kotlin-extends-point/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

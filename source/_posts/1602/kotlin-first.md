@@ -22,8 +22,8 @@ Kotlin作为Android社区当前比较热的讨论内容, 已经发布了**1.0.0-
 更多关于Kotlin 1.0-rc的介绍, [参考](http://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/).
 
 Kotlin内容分为两个部分:
-基础[参考](http://www.wangchenlong.org/2016/03/15/kotlin-first/): **初探与集成Android项目**
-扩展[参考](http://www.wangchenlong.org/2016/03/15/kotlin-extends-point/): **优雅地扩展类的方法和属性**
+基础[参考](http://www.wangchenlong.org/2016/03/15/1602/kotlin-first/): **初探与集成Android项目**
+扩展[参考](http://www.wangchenlong.org/2016/03/15/1602/kotlin-extends-point/): **优雅地扩展类的方法和属性**
 
 Talk is cheap, show you the code. 让我们来看看如何在已有Android项目中集成Kotlin.
 
@@ -182,6 +182,6 @@ class MainActivity : AppCompatActivity() {
 OK, that's all! Enjoy it!
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/15/kotlin-first/
+> http://www.wangchenlong.org/2016/03/15/1602/kotlin-first/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

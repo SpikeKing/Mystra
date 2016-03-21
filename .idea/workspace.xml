@@ -3,12 +3,127 @@
   <component name="ChangeListManager">
     <list default="true" id="ccc0753b-bfb3-46f6-8595-4eeb3b8790f3" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/yelee/source/img/elminster.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-update-app.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-update-app/update-app-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-video-timeline.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-video-timeline/video-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-video-timeline/video-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app/web-app-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app/web-app-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app/web-app-page.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-path-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-path-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rx-continue-update.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rx-continue-update/switch-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rx-continue-update/switch-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rx-continue-update/switch-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event/rxbinding-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event/rxbinding-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603211-show-password-reveal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603211-show-password-reveal/password-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603211-show-password-reveal/password-input.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603211-show-password-reveal/password-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603212-anim-circular-reveal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603212-anim-circular-reveal/circle-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603212-anim-circular-reveal/circle-distrib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603212-anim-circular-reveal/circle-md.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603213-implement-flip-card.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603213-implement-flip-card/card-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/1603213-implement-flip-card/card-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery/analyze.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery/app_stats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery/battery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery/command.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-battery/system_stats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-framework.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-framework/shark-framework.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-framework/shark-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-framework/shark-method.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/analyze-app-framework/shark-other.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-droid-plugin.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-droid-plugin/droid-demo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-droid-plugin/droid-preview.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-flux-architecture.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-flux-architecture/app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/apply-flux-architecture/architecture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/get-app-cert-and-package.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/get-app-cert-and-package/fingerprint.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/improve-gradle-speed.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/improve-gradle-speed/gradle-speed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-extends-point.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-extends-point/kotlin-code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-extends-point/kotlin-show.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-first.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-first/kotlin-convert.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-first/kotlin-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-first/kotlin-plugin.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/kotlin-first/kotlin-show.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/manage-gradle-lib-version.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/manage-gradle-lib-version/manage-gradle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/replace-svg-image.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/replace-svg-image/svg-app.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/replace-svg-image/svg-as.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/replace-svg-image/svg-online.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-apk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-cmd.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-jar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-string.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/reverse-analyze-apk/reverse-test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/rx-network-cache.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/rx-network-cache/rx-cache-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/rx-network-cache/rx-cache-framework.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/rxandroid-async.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/rxandroid-async/rxandroid-demo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/svg-path-animation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/svg-path-animation/svg-android.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/svg-path-animation/svg-anim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/svg-path-animation/svg-version.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-dagger-espresso-test-network.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-dagger-espresso-test-network/android-test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-dagger-first.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-dagger-first/dagger-first.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-dagger-first/dagger-show.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-leak-canary-check-memory.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-leak-canary-check-memory/leak_memory.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-leak-canary-check-memory/position-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-leak-canary-check-memory/position.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-leak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-memory-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-memory-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-memory-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-memory-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-report.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory/mat-total.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-retrofit-first.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/use-retrofit-first/retrofit-combine.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman/_config.yml.example" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman" afterPath="$PROJECT_DIR$/themes/hexo-theme-hueman" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next" afterPath="$PROJECT_DIR$/themes/hexo-theme-next" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee" afterPath="$PROJECT_DIR$/themes/yelee" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/_config.yml" afterPath="$PROJECT_DIR$/themes/yelee/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" afterPath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitHubBlog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,115 +151,131 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="160320-implement-webview-goto-app.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app.md">
+      <file leaf-file-name="rx-network-cache.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="354" column="75" selection-start-line="354" selection-start-column="75" selection-end-line="354" selection-end-column="75" />
+            <state vertical-scroll-proportion="-1.4482758">
+              <caret line="320" column="61" selection-start-line="320" selection-start-column="61" selection-end-line="320" selection-end-column="61" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="160320-implement-update-app.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-update-app.md">
+      <file leaf-file-name="svg-path-animation.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="379" column="3" selection-start-line="379" selection-start-column="3" selection-end-line="379" selection-end-column="3" />
+            <state vertical-scroll-proportion="-1.0344827">
+              <caret line="36" column="120" selection-start-line="36" selection-start-column="120" selection-end-line="36" selection-end-column="120" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="160320-rx-continue-update.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-rx-continue-update.md">
+      <file leaf-file-name="206-rxbinding-react-event.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.586206">
-              <caret line="374" column="0" selection-start-line="363" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="160320-manage-permission.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-manage-permission.md">
+      <file leaf-file-name="213-implement-flip-card.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="286" column="2" selection-start-line="286" selection-start-column="2" selection-end-line="286" selection-end-column="2" />
+            <state vertical-scroll-proportion="3.9529915">
+              <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="160320-rxjava-first.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxjava-first.md">
+      <file leaf-file-name="use-dagger-espresso-test-network.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.551723">
-              <caret line="869" column="3" selection-start-line="860" selection-start-column="0" selection-end-line="869" selection-end-column="3" />
+            <state vertical-scroll-proportion="-1.4482758">
+              <caret line="483" column="45" selection-start-line="483" selection-start-column="45" selection-end-line="483" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1603211-show-password-reveal.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603211-show-password-reveal.md">
+      <file leaf-file-name="use-dagger-first.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state vertical-scroll-proportion="-1.4482758">
+              <caret line="451" column="45" selection-start-line="451" selection-start-column="45" selection-end-line="451" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.swig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig">
+      <file leaf-file-name="use-leak-canary-check-memory.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.0740743">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="52" selection-end-column="23" />
+            <state vertical-scroll-proportion="-1.4482758">
+              <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1603213-implement-flip-card.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603213-implement-flip-card.md">
+      <file leaf-file-name="use-mat-analyze-memory.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-mat-analyze-memory.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.4105113">
-              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state vertical-scroll-proportion="-1.4482758">
+              <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="160320-rxbinding-react-event.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event.md">
+      <file leaf-file-name="use-retrofit-first.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-retrofit-first.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.0">
-              <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+            <state vertical-scroll-proportion="-20.068966">
+              <caret line="200" column="45" selection-start-line="200" selection-start-column="45" selection-end-line="200" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyze-app-framework.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md">
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0344827">
+              <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -160,39 +291,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/hexo-theme-next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" />
-        <option value="$PROJECT_DIR$/themes/yelee/_config.yml" />
-        <option value="$PROJECT_DIR$/source/tags/index.md" />
-        <option value="$PROJECT_DIR$/source/categories/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/first.md" />
-        <option value="$PROJECT_DIR$/source/_posts/android-app-get-sha1-package.md" />
-        <option value="$PROJECT_DIR$/source/_posts/2016-03-12-01.md" />
-        <option value="$PROJECT_DIR$/db.json" />
-        <option value="$PROJECT_DIR$/source/quhui.txt" />
-        <option value="$PROJECT_DIR$/source/_posts/analysize-app-battery.md" />
-        <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_partials/head.swig" />
-        <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/use-leak-canary-check-memory.md" />
-        <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
-        <option value="$PROJECT_DIR$/source/bdunion.txt" />
-        <option value="$PROJECT_DIR$/source/CNAME" />
-        <option value="$PROJECT_DIR$/.deploy_git/2016/03/12/get-app-cert-and-package/index.html" />
-        <option value="$PROJECT_DIR$/source/_posts/use-retrofit-first/apply-droid-plugin.md" />
-        <option value="$PROJECT_DIR$/source/_posts/analyze-app-battery.md" />
-        <option value="$PROJECT_DIR$/source/_posts/apply-flux-architecture.md" />
-        <option value="$PROJECT_DIR$/source/_posts/get-app-cert-and-package.md" />
-        <option value="$PROJECT_DIR$/source/_posts/improve-gradle-speed.md" />
-        <option value="$PROJECT_DIR$/source/_posts/kotlin-extends-point.md" />
-        <option value="$PROJECT_DIR$/source/_posts/kotlin-first.md" />
-        <option value="$PROJECT_DIR$/source/_posts/manage-gradle-lib-version.md" />
-        <option value="$PROJECT_DIR$/source/_posts/replace-svg-image.md" />
-        <option value="$PROJECT_DIR$/source/_posts/svg-path-animation.md" />
-        <option value="$PROJECT_DIR$/source/_posts/use-dagger-espresso-test-network.md" />
         <option value="$PROJECT_DIR$/source/_posts/use-dagger-first.md" />
         <option value="$PROJECT_DIR$/source/_posts/use-mat-analyze-memory.md" />
         <option value="$PROJECT_DIR$/source/_posts/use-retrofit-first.md" />
@@ -215,6 +318,35 @@
         <option value="$PROJECT_DIR$/source/_posts/1603212-anim-circular-reveal.md" />
         <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" />
         <option value="$PROJECT_DIR$/source/_posts/1603213-implement-flip-card.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/improve-gradle-speed.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/kotlin-first.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/use-mat-analyze-memory.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/use-retrofit-first.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" />
       </list>
     </option>
   </component>
@@ -304,35 +436,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1603213-implement-flip-card" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="JavaScriptLanguageLevel" value="ES6" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
@@ -581,10 +691,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962137" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.75757575" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39684626" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35704875" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -592,7 +703,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.325887" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -613,21 +723,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-dagger-first/dagger-first.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_scripts/third-party/lean-analytics.swig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-retrofit-first/retrofit-combine.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/root.txt">
@@ -658,150 +758,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/analyze-app-framework/shark-framework.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/2016/03/12/apply-flux-architecture/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="269" column="14" selection-start-line="269" selection-start-column="14" selection-end-line="269" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/2016/03/12/get-app-cert-and-package/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="268" column="14" selection-start-line="268" selection-start-column="14" selection-end-line="268" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/apply-droid-plugin/droid-demo.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/apply-flux-architecture.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7586207">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/get-app-cert-and-package.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2142856">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/improve-gradle-speed.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.172414">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/kotlin-extends-point.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2413793">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/kotlin-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7586207">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/manage-gradle-lib-version.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.172414">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-retrofit-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21367522">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-dagger-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21367522">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-mat-analyze-memory.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22222222">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/replace-svg-image.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/use-dagger-espresso-test-network.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25641027">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/rxandroid-async/rxandroid-demo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.deploy_git/atom.xml">
@@ -818,61 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event/rxbinding-anim.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rx-continue-update/switch-anim.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxjava-first/rxjava-1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/analyze-app-battery.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/svg-path-animation.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-video-timeline/video-anim.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-update-app/update-app-demo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app/web-app-anim.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-manage-permission/permission-demo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -880,148 +786,329 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/rxandroid-async.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.103448">
-          <caret line="201" column="2" selection-start-line="201" selection-start-column="2" selection-end-line="201" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/rx-network-cache.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.034483">
-          <caret line="314" column="36" selection-start-line="314" selection-start-column="36" selection-end-line="314" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/reverse-analyze-apk.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.51724">
-          <caret line="211" column="35" selection-start-line="211" selection-start-column="35" selection-end-line="211" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/apply-droid-plugin.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.51724">
-          <caret line="670" column="35" selection-start-line="670" selection-start-column="35" selection-end-line="670" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/analyze-app-framework.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-manage-permission.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="286" column="2" selection-start-line="286" selection-start-column="2" selection-end-line="286" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-webview-goto-app.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="354" column="75" selection-start-line="354" selection-start-column="75" selection-end-line="354" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-implement-update-app.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="379" column="3" selection-start-line="379" selection-start-column="3" selection-end-line="379" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603211-show-password-reveal.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.0740743">
+        <state vertical-scroll-proportion="0.23295455">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="52" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxbinding-react-event.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.0">
-          <caret line="236" column="0" selection-start-line="236" selection-start-column="0" selection-end-line="236" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="399" column="46" selection-start-line="399" selection-start-column="46" selection-end-line="399" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rx-continue-update.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.586206">
-          <caret line="374" column="0" selection-start-line="363" selection-start-column="0" selection-end-line="374" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.172414">
+          <caret line="387" column="46" selection-start-line="387" selection-start-column="46" selection-end-line="387" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/160320-rxjava-first.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.551723">
-          <caret line="869" column="3" selection-start-line="860" selection-start-column="0" selection-end-line="869" selection-end-column="3" />
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="354" column="46" selection-start-line="354" selection-start-column="46" selection-end-line="354" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603213-implement-flip-card.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.4105113">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="297" column="46" selection-start-line="297" selection-start-column="46" selection-end-line="297" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.206897">
+          <caret line="376" column="46" selection-start-line="376" selection-start-column="46" selection-end-line="376" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/207-rxjava-first.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="872" column="46" selection-start-line="872" selection-start-column="46" selection-end-line="872" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="230" column="46" selection-start-line="230" selection-start-column="46" selection-end-line="230" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.689655">
+          <caret line="332" column="46" selection-start-line="332" selection-start-column="46" selection-end-line="332" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="129" column="45" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="675" column="2" selection-start-line="675" selection-start-column="2" selection-end-line="675" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="313" column="2" selection-start-line="313" selection-start-column="2" selection-end-line="313" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="101" column="2" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/improve-gradle-speed.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="161" column="45" selection-start-line="161" selection-start-column="45" selection-end-line="161" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-first.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="184" column="45" selection-start-line="184" selection-start-column="45" selection-end-line="184" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="214" column="45" selection-start-line="214" selection-start-column="45" selection-end-line="214" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="16" column="100" selection-start-line="16" selection-start-column="100" selection-end-line="16" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="216" column="45" selection-start-line="216" selection-start-column="45" selection-end-line="216" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="212" column="45" selection-start-line="212" selection-start-column="45" selection-end-line="212" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="483" column="45" selection-start-line="483" selection-start-column="45" selection-end-line="483" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="451" column="45" selection-start-line="451" selection-start-column="45" selection-end-line="451" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="170" column="45" selection-start-line="170" selection-start-column="45" selection-end-line="170" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-mat-analyze-memory.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-retrofit-first.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.068966">
+          <caret line="200" column="45" selection-start-line="200" selection-start-column="45" selection-end-line="200" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0344827">
+          <caret line="7" column="97" selection-start-line="7" selection-start-column="97" selection-end-line="7" selection-end-column="97" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4482758">
+          <caret line="320" column="61" selection-start-line="320" selection-start-column="61" selection-end-line="320" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.0344827">
+          <caret line="36" column="120" selection-start-line="36" selection-start-column="120" selection-end-line="36" selection-end-column="120" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="12" column="67" selection-start-line="12" selection-start-column="67" selection-end-line="12" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.9529915">
+          <caret line="185" column="0" selection-start-line="185" selection-start-column="0" selection-end-line="185" selection-end-column="0" />
           <folding />
         </state>
       </provider>

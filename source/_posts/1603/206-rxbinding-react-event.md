@@ -10,7 +10,7 @@ tags: [Android,RxBinding]
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-本文源码的Github[下载地址](https://github.com/SpikeKing/TestDetailRxAndroid), 关注RxBinding部分, 其余[参考](http://www.jianshu.com/p/6d1ef9f43cdc).
+本文源码的Github[下载地址](https://github.com/SpikeKing/TestDetailRxAndroid).
 
 ![Rx](160320-rxbinding-react-event/rxbinding-logo.png)
 
@@ -242,6 +242,6 @@ OK, that's all! Enjoy it!
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/20/160320-rxbinding-react-event/
+> http://www.wangchenlong.org/2016/03/20/1603/206-rxbinding-react-event/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.

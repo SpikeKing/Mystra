@@ -87,7 +87,7 @@ dexOptions {
 OK, That's all! Enjoy It!
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/14/improve-gradle-speed/
+> http://www.wangchenlong.org/2016/03/14/1602/improve-gradle-speed/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.
 

@@ -5,7 +5,7 @@ categories: [Android]
 tags: [Android,反编译,aapt,dex2jar,apktool,androguard]
 ---
 
-反编译就是逆向工程(Reverse Engineering), 通过解析Apk的内容, 可以验证特性和替换资源. 在批量生成应用时, 使用服务器脚本批量修改Apk, 可以节约人力和时间. 本文介绍逆向工程的常用工具和使用方法. 最新的工具是[ClassyShark](http://www.wangchenlong.org/2016/03/17/analyze-app-framework/).
+反编译就是逆向工程(Reverse Engineering), 通过解析Apk的内容, 可以验证特性和替换资源. 在批量生成应用时, 使用服务器脚本批量修改Apk, 可以节约人力和时间. 本文介绍逆向工程的常用工具和使用方法. 最新的工具是[ClassyShark](http://www.wangchenlong.org/2016/03/17/1602/analyze-app-framework/).
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
@@ -214,7 +214,7 @@ OK, that's all. Enjoy it!
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/19/reverse-analyze-apk/
+> http://www.wangchenlong.org/2016/03/19/1602/reverse-analyze-apk/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.
 

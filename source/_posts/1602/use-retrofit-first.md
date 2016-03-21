@@ -191,13 +191,13 @@ Rx选择执行线程和返回线程.
 
 ---
 
-Rxjava+[Dagger](http://www.wangchenlong.org/2016/03/16/use-dagger-first/)+[Retrofit](http://www.wangchenlong.org/2016/03/16/use-retrofit-first/), 三个编程库在一起使用时, 可以加速网络服务的开发效率. 感谢Square给我们带来的优雅世界.
+Rxjava+[Dagger](http://www.wangchenlong.org/2016/03/16/1602/use-dagger-first/)+[Retrofit](http://www.wangchenlong.org/2016/03/16/1602/use-retrofit-first/), 三个编程库在一起使用时, 可以加速网络服务的开发效率. 感谢Square给我们带来的优雅世界.
 
 OK, that's all! Enjoy it.
 
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/16/use-retrofit-first/
+> http://www.wangchenlong.org/2016/03/16/1602/use-retrofit-first/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.
