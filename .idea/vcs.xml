@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.deploy_git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-casper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-hueman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/hexo-theme-next" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/themes/yelee" vcs="Git" />
+  </component>
+</project>
