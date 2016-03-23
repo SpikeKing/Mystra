@@ -1,5 +1,5 @@
 ---
-title: Vectors时代(2) - 图像的路径动画
+title: Vectors 时代(2) - 图像的路径动画
 date: 2016-03-15 09:17:00
 categories: [Android]
 tags: [Android,SVG,Vector,动画]

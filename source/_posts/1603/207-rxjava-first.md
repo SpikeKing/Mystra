@@ -19,7 +19,7 @@ tags: [Android,RxJava]
 > (4) 线程自动管理, 防止内存泄露.
 > (5) RxBinding绑定控件的异步事件.
 
-![Rx](160320-rxjava-first/rxjava-logo.png)
+![Rx](207-rxjava-first/rxjava-logo.png)
 
 ---
 
@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 最基础的RxAndroid使用.
-![基础](160320-rxjava-first/rxjava-1.png)
+![基础](207-rxjava-first/rxjava-1.png)
 
 ---
 
@@ -311,7 +311,7 @@ public class MoreActivity extends Activity {
 由此我们可以观察到, Rx的写法可以是多种多样, 合理的写法会更加优雅.
 
 效果
-![效果](160320-rxjava-first/rxjava-2.png)
+![效果](207-rxjava-first/rxjava-2.png)
 
 ---
 
@@ -603,7 +603,7 @@ public interface GitHubService {
 ```
 
 显示用户
-![显示](160320-rxjava-first/rxjava-3.png)
+![显示](207-rxjava-first/rxjava-3.png)
 
 > 详情页面与主页类似, 参考代码, 不做细说.
 
@@ -851,7 +851,7 @@ public class BindingActivity extends AppCompatActivity {
 > Toolbar使用RxToolbar监听点击事件; Snackbar使用RxSnackbar监听;
 > EditText使用RxTextView监听; 其余使用RxView监听.
 
-![动画](160320-rxjava-first/rxjava-anim.gif)
+![动画](207-rxjava-first/rxjava-anim.gif)
 
 ---
 
@@ -865,7 +865,7 @@ OK, That's all. Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-8.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

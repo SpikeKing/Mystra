@@ -1,5 +1,5 @@
 ---
-title: Kotlin(2) - 优雅地扩展类的方法和属性
+title: Kotlin (2) - 优雅地扩展类的方法和属性
 date: 2016-03-15 21:32:00
 categories: [Android]
 tags: [Android,Kotlin]

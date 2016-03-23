@@ -10,7 +10,7 @@ tags: [Android,功能,密码]
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-![Password](1603211-show-password-reveal/password-logo.png)
+![Password](211-show-password-reveal/password-logo.png)
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-password-input-demo)
 
@@ -64,7 +64,7 @@ tags: [Android,功能,密码]
 
 效果
 
-![显示](1603211-show-password-reveal/password-input.png)
+![显示](211-show-password-reveal/password-input.png)
 
 ---
 
@@ -209,7 +209,7 @@ tags: [Android,功能,密码]
 
 动画效果
 
-![动画](1603211-show-password-reveal/password-anim.png)
+![动画](211-show-password-reveal/password-anim.png)
 
 现在可以把类复制到应用中, 更换图片资源, 替换显示密码框, 给用户更好的移动端体验. 永远追求极致, 追求不凡.
 
@@ -223,7 +223,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-6.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

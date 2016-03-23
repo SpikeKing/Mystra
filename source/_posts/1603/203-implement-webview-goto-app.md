@@ -19,7 +19,7 @@ tags: [Android]
 (1) 如何加载本地的HTML页面到浏览器.
 (2) 如何创建半透明的Activity页面.
 
-![展示](160320-implement-webview-goto-app/web-app-demo.png)
+![展示](203-implement-webview-goto-app/web-app-demo.png)
 
 ---
 
@@ -153,7 +153,7 @@ BottomSheet页面, 由两个EditText组成.
 > 配合样式(Styles)的``<item name="android:windowIsFloating">false</item>``属性,
 > 可以在底部显示页面.
 
-![BottomSheet](160320-implement-webview-goto-app/web-app-page.png)
+![BottomSheet](203-implement-webview-goto-app/web-app-page.png)
 
 声明, 添加``SEND``的Action, ``BROWSABLE``的Category, ``text/plain``的文件类型. 
 主题设置透明主题. 启动时, 会保留上部半透明, 用于显示网页信息.
@@ -333,7 +333,7 @@ public class MainActivity extends AppCompatActivity {
 小米支持Google原生调用, 参考``openUrlInBrowser``函数.
 > (3) 回退事件的处理方式, 参考``onBackPressed``函数.
 
-![动画](160320-implement-webview-goto-app/web-app-anim.gif)
+![动画](203-implement-webview-goto-app/web-app-anim.gif)
 
 就这些了, 在浏览器的HTML5页面中, 可以添加更多和本地应用的交互.
 
@@ -347,7 +347,7 @@ OK, that's all! Enjoy it.
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-10.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DY1RUHO0vTA0cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMWYM4BMqU8IYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3QFuiTPmB1MeO9CYTlVrtTXEqY%2Bakgpmw&pvid=53_117.73.144.43_341_1458470034945)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DY1RUHO0vTA0cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMWYM4BMqU8IYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3QFuiTPmB1MeO9CYTlVrtTXEqY%2Bakgpmw&pvid=53_117.73.144.43_341_1458470034945)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DY1RUHO0vTA0cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMWYM4BMqU8IYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3QFuiTPmB1MeO9CYTlVrtTXEqY%2Bakgpmw&pvid=53_117.73.144.43_341_1458470034945)
 
 ---
 

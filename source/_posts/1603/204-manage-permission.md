@@ -10,7 +10,7 @@ tags: [Android,权限]
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-![Permissions](160320-manage-permission/permission-logo.png)
+![Permissions](204-manage-permission/permission-logo.png)
 
 Android系统包含**默认的授权提示框**, 但是我们仍需要设置自己的页面. 原因是系统提供的授权框, 会有**不再提示**的选项. 如果用户选择, 则无法触发授权提示. 使用自定义的提示页面, 可以给予用户手动修改授权的指导.
 
@@ -18,11 +18,11 @@ Android系统包含**默认的授权提示框**, 但是我们仍需要设置自�
 
 在Api 23中, 权限需要动态获取, 核心权限必须满足. 标准流程:
 
-![流程图](160320-manage-permission/permission-path-1.png)
+![流程图](204-manage-permission/permission-path-1.png)
 
 如果用户点击, **不再提示**, 则系统授权弹窗将不会弹出. 流程变为:
 
-![流程图](160320-manage-permission/permission-path-2.png)
+![流程图](204-manage-permission/permission-path-2.png)
 
 流程就这些, 让我们看看代码吧.
 
@@ -267,7 +267,7 @@ public class PermissionsActivity extends AppCompatActivity {
 > 系统授权提示: ActivityCompat.requestPermissions, ActivityCompat兼容低版本.
 
 效果
-![自定义授权](160320-manage-permission/permission-demo.png)
+![自定义授权](204-manage-permission/permission-demo.png)
 
 ---
 
@@ -275,7 +275,7 @@ public class PermissionsActivity extends AppCompatActivity {
 
 危险权限列表
 
-![危险权限列表](160320-manage-permission/permission-list.png)
+![危险权限列表](204-manage-permission/permission-list.png)
 
 [相关文章](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
 [相关文章](https://blog.stylingandroid.com/)
@@ -290,7 +290,7 @@ OK, that's all! Enjoy it.
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-9.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3Dej4BaB%2FnUoMcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMbO2CON%2BuR7dMMgx22UI05aD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpcT2EudbsuL7MmUDdIf17dXEqY%2Bakgpmw)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3Dej4BaB%2FnUoMcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMbO2CON%2BuR7dMMgx22UI05aD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpcT2EudbsuL7MmUDdIf17dXEqY%2Bakgpmw)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3Dej4BaB%2FnUoMcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMbO2CON%2BuR7dMMgx22UI05aD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpcT2EudbsuL7MmUDdIf17dXEqY%2Bakgpmw)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 使用RecyclerView控件实现瀑布流
+title: 使用 RecyclerView 控件实现瀑布流
 date: 2016-03-22 08:14:00
 categories: [Android]
 tags: [Android,控件]

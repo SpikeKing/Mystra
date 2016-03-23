@@ -12,7 +12,7 @@ tags: [Android,RxBinding]
 
 本文源码的Github[下载地址](https://github.com/SpikeKing/TestDetailRxAndroid).
 
-![Rx](160320-rxbinding-react-event/rxbinding-logo.png)
+![Rx](206-rxbinding-react-event/rxbinding-logo.png)
 
 ---
 
@@ -28,7 +28,7 @@ tags: [Android,RxBinding]
 
 ---
 
-# 页面布局
+# 布局
 
 Toolbar和Fab, 两个较新的控件.
 ```xml
@@ -223,7 +223,7 @@ public class BindingActivity extends AppCompatActivity {
 
 ---
 
-![动画](160320-rxbinding-react-event/rxbinding-anim.gif)
+![动画](206-rxbinding-react-event/rxbinding-anim.gif)
 
 Rx响应式编程是处理异步回调的一种优雅方式, 每一个最求完美的程序员都应该学会.
 
@@ -237,7 +237,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-7.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

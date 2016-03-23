@@ -2,7 +2,7 @@
 title: 实现应用内的更新版本功能
 date: 2016-03-20 17:31:00
 categories: [Android]
-tags: [Android]
+tags: [Android,功能]
 ---
 
 在应用中, 为了提高用户体验, 会提供更新版本的功能. 那么如何实现呢? 我写了一个简单的Demo, 说明一下, 需要注意几个细节. 使用了Retrofit和Rx处理网络请求.
@@ -12,7 +12,7 @@ tags: [Android]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-update-request-demo)
 
-![更新](160320-implement-update-app/update-app-demo.png)
+![效果](201-implement-update-app/update-app-logo.png)
 
 ---
 
@@ -382,6 +382,8 @@ public class InstallReceiver extends BroadcastReceiver {
 > 安装本应用下载的Apk, 不安装其他Apk, 存储下载Id, 与广播Id进行匹配.
 > 下载失败, 也会发送``下载完成(ACTION_DOWNLOAD_COMPLETE)``广播,  Uri可能为空, 需要判断, 否则发生崩溃.
 
+![效果](201-implement-update-app/update-app-demo.png)
+
 OK, that's all! Enjoy it!
 
 ---
@@ -392,7 +394,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-12.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DwlSxEhnDFIQcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMSbFONwIx2dFxq3IhSJN6GSD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpZKRyGSfGfBg5BM%2FRD2IiNyGFCzYOOqAQ)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DwlSxEhnDFIQcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMSbFONwIx2dFxq3IhSJN6GSD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpZKRyGSfGfBg5BM%2FRD2IiNyGFCzYOOqAQ)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DwlSxEhnDFIQcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XJRAdhuF14FMSbFONwIx2dFxq3IhSJN6GSD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2nagyz8D6Kmb7m%2B%2Fof3H88sxpZKRyGSfGfBg5BM%2FRD2IiNyGFCzYOOqAQ)
 
 ---
 

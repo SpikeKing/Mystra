@@ -10,11 +10,11 @@ Android的Material Design设计理念, 带来很多绚丽的动画效果. 在页
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-![Material Design](1603212-anim-circular-reveal/circle-md.png)
+![Material Design](212-anim-circular-reveal/circle-md.png)
 
 > 随着厂商的版本迭代, 超过三分之一的手机都是5.0以上的操作系统, 随着更多便宜的低端手机普及5.0+系统(如红米系列), 给用户带来更好的体验, 会大大增加应用留存率.
 
-![Android系统(20160227)](1603212-anim-circular-reveal/circle-distrib.png)
+![Android系统(20160227)](212-anim-circular-reveal/circle-distrib.png)
 
 本文主要内容:
 (1) 修改分享元素的滑动轨迹, 以90°圆弧方式出现和返回, 即transition动画.
@@ -311,7 +311,7 @@ arc_motion角度变换
 
 动画
 
-![环形显示](1603212-anim-circular-reveal/circle-anim.gif)
+![环形显示](212-anim-circular-reveal/circle-anim.gif)
 
 最后说一些有关用户体验的事情, 对于一款应用而言, 好的性能固然重要, 但优秀的设计也非常关键, 优异的产品需要优异的展现方式.
 
@@ -325,7 +325,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-7.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DBgHOOo%2BuGfMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEySPLNzIt%2Fz56h1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulwa0F0AWKbkgC1LHPteAx8i7Ng8yStHNWC995RSXr%2Fuk&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

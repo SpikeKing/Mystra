@@ -1,5 +1,5 @@
 ---
-title: 使用 Espresso 和 Dagger 测试网络服务
+title: 使用 Espresso 和 Dagger 自动化测试网络服务
 date: 2016-03-13 14:14:00
 categories: [Android]
 tags: [Android,Espresso,Dagger,测试]

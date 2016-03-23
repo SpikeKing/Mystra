@@ -10,7 +10,7 @@ tags: [Android,RxJava]
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-![Android](160320-rx-continue-update/switch-logo.png)
+![Android](205-rx-continue-update/switch-logo.png)
 
 主要
 (1) 使用异步任务和后台服务更新页面, 避免内存泄露.
@@ -20,7 +20,7 @@ tags: [Android,RxJava]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-continuous-demo)
 
-![旋转屏幕](160320-rx-continue-update/switch-demo.png)
+![旋转屏幕](205-rx-continue-update/switch-demo.png)
 
 ---
 
@@ -353,7 +353,7 @@ public class CustomIterator implements Iterable<Long> {
 ---
 
 效果动画
-![动画](160320-rx-continue-update/switch-anim.gif)
+![动画](205-rx-continue-update/switch-anim.gif)
 
 比较而言, 使用异步任务容易造成内存泄露, 并且可扩展性比较小, 适合简单的更新; 使用后台服务比较重, 需要另起进程, 适合复杂的数据处理, 不适合更新页面; 使用RxJava, 容易扩展, 可以控制释放时机, 是比较不错的选择.
 
@@ -369,7 +369,7 @@ That's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-6.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D095YJZQ1%2BQUcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67sL74TtmOEyS6EFRCN7EKmx1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3Iwqzx5RfB%2Byogwp%2Fp0ZrHz07Zdf9LZNcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

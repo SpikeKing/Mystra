@@ -10,7 +10,7 @@ tags: [Android,动画]
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
 
-![Card](1603213-implement-flip-card/card-logo.png)
+![Card](213-implement-flip-card/card-logo.png)
 
 > 在TB吃海底捞时, 使用Pad点餐, 发现应用的食谱功能使用卡片控件, 就准备和大家分享一下实现方式. 有兴趣的朋友可以去海底捞看看:)
 
@@ -184,7 +184,7 @@ tags: [Android,动画]
 
 动画效果
 
-![旋转卡片](1603213-implement-flip-card/card-anim.gif)
+![旋转卡片](213-implement-flip-card/card-anim.gif)
 
 
 动画效果非常简单, 全部逻辑都不足50行, 这么好玩的动画, 用起来吧.
@@ -199,7 +199,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-8.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DkuMRvLgFfW4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67l7Rhd61ZfyxUQTSx8a5hQd1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul3VDMpR1XpI6%2BC4BVs0yhNE9WzFfQPcoCcYMXU3NNCg%2F&pvid=12_117.73.144.43_332_1458433143248)
 
 ---
 

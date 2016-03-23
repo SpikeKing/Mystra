@@ -22,7 +22,7 @@ tags: [Android,视频]
 ```
 
 效果
-![效果](160320-implement-video-timeline/video-demo.png)
+![效果](202-implement-video-timeline/video-demo.png)
 
 ---
 
@@ -364,7 +364,7 @@ public abstract class VideoListItem implements VideoItem, ListItem {
 
 动画效果
 
-![动画](160320-implement-video-timeline/video-anim.gif)
+![动画](202-implement-video-timeline/video-anim.gif)
 
 虽然使用视频播放的管理器, 但播放功能还是需要注意一些细节. 毕竟视频播放是个比较复杂的过程, 需要考虑的很多事情.
 
@@ -380,7 +380,7 @@ OK, that's all! Enjoy it!
 
 [![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-11.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DbQqEGtEPMj4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMSWezvoDS%2BLYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3FvZkjmY02UCDrpn5AJHivHEqY%2Bakgpmw)
 
-女生, 让自己更职业受欢迎! 男生, 送给心中女神或未来女友! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DbQqEGtEPMj4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMSWezvoDS%2BLYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3FvZkjmY02UCDrpn5AJHivHEqY%2Bakgpmw)
+女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DbQqEGtEPMj4cQipKwQzePOeEDrYVVa64K7Vc7tFgwiFRAdhuF14FMSWezvoDS%2BLYJ1gyddu7kN%2BD18qGwYGwMucFZRTbL%2Fvo%2BIoZChn2najN9dt%2FjNhJlNObIo0vIHz3FvZkjmY02UCDrpn5AJHivHEqY%2Bakgpmw)
 
 ---
 

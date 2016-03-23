@@ -1,5 +1,5 @@
 ---
-title: Vectors时代(1) - SVG 格式缩减应用图像
+title: Vectors 时代(1) - SVG 格式缩减应用图像
 date: 2016-03-15 07:01:00
 categories: [Android]
 tags: [Android,SVG,Vector,优化]
