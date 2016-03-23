@@ -2,113 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc0753b-bfb3-46f6-8595-4eeb3b8790f3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1/android-tips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2/android-tips.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/229-card-view-first/card-demo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/229-card-view-first/card-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first/coordinate-demo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first/coordinate-img-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first/coordinate-img-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/android-tips.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/yelee/source/img/elminster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/234-activity-launch-mode/launch-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle/lifecycle-anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle/lifecycle-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle/lifecycle-tree.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/231-percent-layout-first/percent-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element/shared-anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element/shared-demo-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element/shared-demo-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first/tabhost-anim.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first/tabhost-demo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first/tabhost-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2/tips2-shark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2/tips2-size.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app/update-app-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/229-card-view-first.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/231-percent-layout-first.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/234-activity-launch-mode.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-8-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3/tips3-8-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3.md" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman/_config.yml.example" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network/android-test.png" afterPath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network/android-test.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture/app.png" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture/app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first/appbar-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first/appbar-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture/architecture.png" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture/architecture.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card/card-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card/card-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal/circle-distrib.png" afterPath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal/circle-distrib.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal/circle-md.png" afterPath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal/circle-md.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/221-start-page-anim/cold-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/221-start-page-anim/cold-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-dagger-first/dagger-first.png" afterPath="$PROJECT_DIR$/source/_posts/1602/use-dagger-first/dagger-first.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin/droid-preview.png" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin/droid-preview.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/225-face-detect/face-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/225-face-detect/face-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package/fingerprint.jpg" afterPath="$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package/fingerprint.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/improve-gradle-speed/gradle-speed.png" afterPath="$PROJECT_DIR$/source/_posts/1602/improve-gradle-speed/gradle-speed.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman" afterPath="$PROJECT_DIR$/themes/hexo-theme-hueman" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next" afterPath="$PROJECT_DIR$/themes/hexo-theme-next" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-plugin.png" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-plugin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-show.png" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-first/kotlin-show.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/leak_memory.png" afterPath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/leak_memory.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version/manage-gradle.png" afterPath="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version/manage-gradle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal/password-input.png" afterPath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal/password-input.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal/password-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal/password-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission/permission-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission/permission-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission/permission-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission/permission-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/position-2.png" afterPath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/position-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/position.png" afterPath="$PROJECT_DIR$/source/_posts/1602/use-leak-canary-check-memory/position.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/226-recycler-view-first/recycler-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/226-recycler-view-first/recycler-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-retrofit-first/retrofit-combine.jpg" afterPath="$PROJECT_DIR$/source/_posts/1602/use-retrofit-first/retrofit-combine.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/rx-network-cache/rx-cache-framework.png" afterPath="$PROJECT_DIR$/source/_posts/1602/rx-network-cache/rx-cache-framework.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async/rxandroid-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async/rxandroid-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event/rxbinding-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event/rxbinding-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-1.png" afterPath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-2.png" afterPath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-3.png" afterPath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first/rxjava-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim/snow-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim/snow-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation/svg-android.jpg" afterPath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation/svg-android.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-app.png" afterPath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-as.png" afterPath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-as.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-online.png" afterPath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image/svg-online.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update/switch-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update/switch-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update/switch-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update/switch-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app/update-app-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app/update-app-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim/voice-logo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim/voice-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-demo.png" afterPath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-demo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-page.png" afterPath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-page.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee" afterPath="$PROJECT_DIR$/themes/yelee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md" afterPath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" afterPath="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" afterPath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" afterPath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" afterPath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" afterPath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" afterPath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" afterPath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" afterPath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/226-recycler-view-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/226-recycler-view-first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md" afterPath="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/_config.yml" afterPath="$PROJECT_DIR$/themes/yelee/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md" afterPath="$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/source/css/_variables/base.styl" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/source/css/_variables/base.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-first.md" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-first.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" afterPath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" afterPath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md" afterPath="$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md" afterPath="$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md" afterPath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" afterPath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" afterPath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitHubBlog.iws" />
@@ -137,105 +53,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="225-face-detect.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603/225-face-detect.md">
+      <file leaf-file-name="233-android-tips-3.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.379311">
-              <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="345" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="234-activity-launch-mode.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603/234-activity-launch-mode.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.26785713">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="235-activity-lifecycle.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.275862">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kotlin-first.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-first.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.51724136">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kotlin-extends-point.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.51724136">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reverse-analyze-apk.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-109.13793">
-              <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="replace-svg-image.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.51724136">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="svg-path-animation.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
-          <provider editor-type-id="MarkdownPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.275862">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state vertical-scroll-proportion="-0.19338423">
+              <caret line="159" column="4" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -254,14 +79,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="232-android-tips-2.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="232-android-tips-2.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3816794">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -282,7 +107,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/improve-gradle-speed.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md" />
@@ -310,7 +134,6 @@
         <option value="$PROJECT_DIR$/source/_posts/1603/231-percent-layout-first.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" />
@@ -331,8 +154,10 @@
         <option value="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" />
         <option value="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" />
-        <option value="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" />
         <option value="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md" />
+        <option value="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" />
+        <option value="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3.md" />
       </list>
     </option>
   </component>
@@ -425,6 +250,40 @@
               <option name="myItemId" value="tips" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1603" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHubBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHubBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tips" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1603" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="233-android-tips-3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -464,18 +323,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3" />
       <recent name="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2" />
       <recent name="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app" />
-      <recent name="$PROJECT_DIR$/source/_posts/1603/225-recycler-view-first" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/234-android-launch-mode" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element" />
       <recent name="$PROJECT_DIR$/source/_posts/1603/231-percent-layout-first" />
-      <recent name="$PROJECT_DIR$/source/_posts/1603/229-card-view-first" />
     </key>
   </component>
   <component name="RunManager">
@@ -694,7 +553,7 @@
     <frame x="0" y="23" width="1389" height="877" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26800296" sideWeight="0.49183673" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27171493" sideWeight="0.49183673" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32720104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -731,26 +590,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.62069">
-          <caret line="670" column="15" selection-start-line="670" selection-start-column="15" selection-end-line="670" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.137931">
-          <caret line="314" column="16" selection-start-line="314" selection-start-column="16" selection-end-line="314" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -903,16 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.206897">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
@@ -934,16 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="137" column="51" selection-start-line="137" selection-start-column="51" selection-end-line="137" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.310345">
-          <caret line="341" column="0" selection-start-line="341" selection-start-column="0" selection-end-line="351" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -974,7 +793,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1007,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,7 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,7 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="272" column="0" selection-start-line="272" selection-start-column="0" selection-end-line="282" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="283" column="0" selection-start-line="283" selection-start-column="0" selection-end-line="293" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,7 +863,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.620689">
           <caret line="154" column="0" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-12.379311">
           <caret line="1012" column="0" selection-start-line="1012" selection-start-column="0" selection-end-line="1022" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1078,7 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.26785713">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,58 +896,18 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/225-face-detect.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app/web-app-logo.jpg">
+      <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.379311">
-          <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="345" selection-end-column="3" />
-          <folding />
-        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.275862">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.51724136">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.51724136">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-109.13793">
-          <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
-          <folding />
+        <state vertical-scroll-proportion="0.3409091">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -1147,20 +916,78 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.51724136">
+        <state vertical-scroll-proportion="0.021306818">
           <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.275862">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding />
+        <state vertical-scroll-proportion="4.4957385">
+          <caret line="211" column="14" selection-start-line="211" selection-start-column="14" selection-end-line="211" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021306818">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-first.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.021306818">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3622159">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/225-face-detect.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5099432">
+          <caret line="335" column="0" selection-start-line="335" selection-start-column="0" selection-end-line="345" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7251908">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03816794">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1180,8 +1007,19 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3816794">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.19338423">
+          <caret line="159" column="4" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="4" />
           <folding />
         </state>
       </provider>
