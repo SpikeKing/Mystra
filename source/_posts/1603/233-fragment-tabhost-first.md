@@ -9,6 +9,7 @@ FragmentTabHost作为Android4.0版本的控件, 已经被项目广泛使用, 5.0
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
+> Follow: https://github.com/SpikeKing
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestFragmentTabHost)
 
@@ -219,16 +220,6 @@ public class FragmentTab extends Fragment {
 熟练使用FragmentTabHost控件很重要, 因为大量应用都在使用.
 
 OK, That's all!  Enjoy It!
-
----
-
-**生活**
-
-> 有技术又要有生活, 美让生活更精彩!
-
-[![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-3.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3D8i0Flhyf1gMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67tcy0Em%2BHXdDPx3RkWSJTux1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul7QjEVeo0%2FYmgE9V3e8PmOyIiYuNitTbzwyW7mQwqx7e&pvid=12_117.73.144.43_401_1458429238541)
-
-女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D8i0Flhyf1gMcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67tcy0Em%2BHXdDPx3RkWSJTux1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul7QjEVeo0%2FYmgE9V3e8PmOyIiYuNitTbzwyW7mQwqx7e&pvid=12_117.73.144.43_401_1458429238541)
 
 ---
 

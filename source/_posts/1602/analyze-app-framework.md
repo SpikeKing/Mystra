@@ -98,16 +98,6 @@ OK, that's all! Enjoy it.
 
 ---
 
-**生活**
-
-> 有技术又要有生活, 美让生活更精彩!
-
-[![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks-4.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3DYP1A9x0y5JkcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67kQWqc2Cz%2FyXgL3PGTnk8MZ1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulw7xj6wcTA8j6o2k%2BacbIDj65kFcG2Yt8DM15gorQ8UE&pvid=12_117.73.144.43_401_1458429238541)
-
-女生, 让自己更职业受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3DYP1A9x0y5JkcQipKwQzePOeEDrYVVa64K7Vc7tFgwiHjf2vlNIV67kQWqc2Cz%2FyXgL3PGTnk8MZ1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmulw7xj6wcTA8j6o2k%2BacbIDj65kFcG2Yt8DM15gorQ8UE&pvid=12_117.73.144.43_401_1458429238541)
-
----
-
 > 原始地址: 
 > http://www.wangchenlong.org/2016/03/17/1602/analyze-app-framework/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 

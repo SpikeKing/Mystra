@@ -306,16 +306,6 @@ OK, that's all! Enjoy it.
 
 ---
 
-**生活**
-
-> 有技术又要有生活, 美让生活更精彩!
-
-[![丝袜](http://7xrsre.com1.z0.glb.clouddn.com/spike-ad-girl-socks.jpg)](http://s.click.taobao.com/t?e=m%3D2%26s%3D302SIwXttHEcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67qDUtvAPEpZkrumJQoe%2FxcN1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul0NFd1o3Xd%2FD%2BEw8xZZ6W%2Ffp%2FAHLBs4DsnEqY%2Bakgpmw&pvid=10_117.73.144.43_444_1458391396057)
-
-女生, 让自己更职业更受欢迎! [好物](http://s.click.taobao.com/t?e=m%3D2%26s%3D302SIwXttHEcQipKwQzePOeEDrYVVa64LKpWJ%2Bin0XLjf2vlNIV67qDUtvAPEpZkrumJQoe%2FxcN1lK%2FY7wPaoHeQQxhDmA6IAe67oaxDEWp4DvOxtwmul0NFd1o3Xd%2FD%2BEw8xZZ6W%2Ffp%2FAHLBs4DsnEqY%2Bakgpmw&pvid=10_117.73.144.43_444_1458391396057).
-
----
-
 > 原始地址: 
 > http://www.wangchenlong.org/2016/03/19/1602/rx-network-cache/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58), [Slides](https://slides.com/spikeking). 

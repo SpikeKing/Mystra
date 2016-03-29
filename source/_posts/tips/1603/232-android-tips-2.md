@@ -1,6 +1,6 @@
 ---
 title: Android Tips (2)
-date: 2016-03-23 20:58:00
+date: 2016-02-23 20:58:00
 categories: [Tips]
 tags: [Android,Tips]
 ---
@@ -11,6 +11,9 @@ tags: [Android,Tips]
 > 更多: http://www.wangchenlong.org/
 
 ![Android](232-android-tips-2/android-tips.png)
+
+系列
+[第一篇](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/), [第二篇](http://www.wangchenlong.org/2016/02/23/tips/1603/232-android-tips-2/), [第三篇](http://www.wangchenlong.org/2016/02/23/tips/1603/233-android-tips-3/), [第四篇](http://www.wangchenlong.org/2016/02/24/tips/1603/241-android-tips-4/), [第五篇](http://www.wangchenlong.org/2016/02/24/tips/1603/242-android-tips-5/).
 
 ---
 
@@ -215,7 +218,7 @@ OK, That's all! Enjoy it!
 ---
 
 > 原始地址: 
-> http://www.wangchenlong.org/2016/03/23/tips/1603/232-android-tips-2/
+> http://www.wangchenlong.org/2016/02/23/tips/1603/232-android-tips-2/
 > 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [微博](http://weibo.com/u/2852941392), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58). 
 > 我已委托“维权骑士”为我的文章进行维权行动. 未经授权, 禁止转载, 授权或合作请留言.
 
