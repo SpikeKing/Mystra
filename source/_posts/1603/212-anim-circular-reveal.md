@@ -22,6 +22,8 @@ Android的Material Design设计理念, 带来很多绚丽的动画效果. 在页
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-circle-reveal-demo).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ---
 
 # 首页

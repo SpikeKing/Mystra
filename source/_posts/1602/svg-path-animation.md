@@ -26,6 +26,8 @@ SDK Manager提示支持库更新
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestSVG).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 动画
 
 ![绘制](svg-path-animation/svg-anim.gif)

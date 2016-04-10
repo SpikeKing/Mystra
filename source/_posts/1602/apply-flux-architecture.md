@@ -18,6 +18,8 @@ Facebook使用Flux架构来构建客户端的Web应用. Flux架构并不是为�
 
 本文源码的Github[下载地址](https://github.com/SpikeKing/MyFluxApp-TodoList)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 基本架构模型如图:
 
 ![架构](apply-flux-architecture/architecture.png)

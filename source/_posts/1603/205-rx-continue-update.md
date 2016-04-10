@@ -20,6 +20,8 @@ tags: [Android,RxJava]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-continuous-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![旋转屏幕](205-rx-continue-update/switch-demo.png)
 
 ---

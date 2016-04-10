@@ -12,6 +12,8 @@ tags: [Android,RxBinding]
 
 本文源码的Github[下载地址](https://github.com/SpikeKing/TestDetailRxAndroid).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![Rx](206-rxbinding-react-event/rxbinding-logo.png)
 
 ---

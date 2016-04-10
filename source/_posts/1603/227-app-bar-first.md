@@ -12,6 +12,8 @@ AppBar作为Android5.0的重要动画效果, 非常绚丽的UI, 通过内容驱�
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestAppBar)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![效果](227-app-bar-first/appbar-demo.png)
 
 ---

@@ -16,6 +16,8 @@ tags: [Android,动画]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-flip-anim-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ---
 
 # 首页

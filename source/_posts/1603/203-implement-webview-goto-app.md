@@ -12,6 +12,8 @@ tags: [Android]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestWebIntent)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![Web](203-implement-webview-goto-app/web-app-logo.jpg)
 
 如何在网页(Web)中, 通过Intent直接启动应用(App)的Activity呢? 

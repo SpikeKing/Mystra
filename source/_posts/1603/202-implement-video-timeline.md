@@ -14,6 +14,8 @@ tags: [Android,视频]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-video-list-demo).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 使用的视频管理库.
 ```gradle
     // 视频播放库

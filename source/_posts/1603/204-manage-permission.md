@@ -16,6 +16,8 @@ Android系统包含**默认的授权提示框**, 但是我们仍需要设置自�
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-permission-demo).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 在Api 23中, 权限需要动态获取, 核心权限必须满足. 标准流程:
 
 ![流程图](204-manage-permission/permission-path-1.png)

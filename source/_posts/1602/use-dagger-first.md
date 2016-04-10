@@ -17,6 +17,8 @@ tags: [Android,Dagger,架构]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-dagger-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![Dagger2](use-dagger-first/dagger-first.png)
 
 ---

@@ -19,7 +19,9 @@ Rx表示响应式编程, 使用观察者模式, 以观察者(Observer)和订阅�
 
 [RxAndroid](https://github.com/ReactiveX/RxAndroid)来源于RxJava, 在RxJava的基础上扩展了一些Android的功能, 已经发布1.0版本, 让我们来看看怎么用吧.
 
-本文源码的Github[下载地址](https://github.com/SpikeKing/TestRxAndroidSample)
+本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestRxAndroidSample)
+
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
 
 ![Demo](rxandroid-async/rxandroid-demo.png)
 

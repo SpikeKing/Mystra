@@ -9,9 +9,10 @@ FragmentTabHost作为Android4.0版本的控件, 已经被项目广泛使用, 5.0
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
-> Follow: https://github.com/SpikeKing
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestFragmentTabHost)
+
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
 
 ![Tabs](233-fragment-tabhost-first/tabhost-logo.jpg)
 

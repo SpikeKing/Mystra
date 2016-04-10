@@ -14,6 +14,8 @@ tags: [Android,功能,密码]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-password-input-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 要点
 (1) 重写EditText, 添加提示密码显示和隐藏的图片.
 (2) 判断点击位置, 切换EditText的密码显示状态.

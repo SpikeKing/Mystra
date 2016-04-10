@@ -21,6 +21,8 @@ tags: [Android,SVG,Vector,优化]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestSVG).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ---
 
 下载SVG格式的图片.

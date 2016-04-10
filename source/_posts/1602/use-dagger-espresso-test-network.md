@@ -14,6 +14,8 @@ tags: [Android,Espresso,Dagger,测试]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-espresso-dagger-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 > Dagger2已经成为众多Android开发者的必备工具, 是一个快速的[依赖注入](https://en.wikipedia.org/wiki/Dependency_injection)框架，由[Square](https://squareup.com/)开发，并针对Android做了特别优化, 已经被Google进行Fork开发. 不像其他的依赖注入器, Dagger2没有使用反射, 而是使用预生成代码, 提高执行速度.H
 
 ![Android Test](use-dagger-espresso-test-network/android-test.png)

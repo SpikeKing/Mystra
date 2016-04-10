@@ -28,6 +28,8 @@ tags: [Android,动画]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-like-anim-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![动画](224-star-explode-anim/star-anim.gif)
 
 ---

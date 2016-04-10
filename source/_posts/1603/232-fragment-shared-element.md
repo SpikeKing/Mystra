@@ -14,6 +14,8 @@ Android的动画效果, Material Design提出的. 当Fragment切换时, 一些�
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestFragmetnSharedElement)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![效果](232-fragment-shared-element/shared-anim.gif)
 
 ---
@@ -199,7 +201,8 @@ public interface MyViewOnClickListener {
 ```
 
 效果
-![Grid](232-fragment-shared-element/shared-demo-1.png)
+
+![网格](232-fragment-shared-element/shared-demo-1.png)
 
 ---
 

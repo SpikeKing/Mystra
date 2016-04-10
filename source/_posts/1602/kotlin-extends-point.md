@@ -23,6 +23,8 @@ Kotlin由JetBrains公司推出, 是兼容Java的一种编程语言, 也可以用
 
 本文源码的Github[下载地址](https://github.com/SpikeKing/wcl-kotlin-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ---
 
 # 类型安全的构建模式

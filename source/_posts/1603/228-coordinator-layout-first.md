@@ -12,6 +12,8 @@ tags: [Android,CoordinatorLayout,控件]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/TestCoordinatorLayout.git)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![联动效果](228-coordinator-layout-first/coordinate-demo.png)
 
 ---

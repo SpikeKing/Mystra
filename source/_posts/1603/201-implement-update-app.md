@@ -12,6 +12,8 @@ tags: [Android,功能]
 
 本文源码的GitHub[下载地址](https://github.com/SpikeKing/wcl-update-request-demo)
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 ![效果](201-implement-update-app/update-app-logo.png)
 
 ---

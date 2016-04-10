@@ -16,6 +16,8 @@ Talk is cheap, show you the code! 如何把DroidPlugin用起来呢? 这是我比
 
 本文源码的Github[下载地址](https://github.com/SpikeKing/wcl-droid-plugin-demo) 和 [测试Apk](https://github.com/SpikeKing/wcl-plugin-test-app).
 
+> 欢迎Follow我的GitHub: https://github.com/SpikeKing
+
 > 使用方法, 生成测试apk, 和其他若干apk, 放入Download文件夹下.
 > adb命令: ``adb push app-debug.apk /sdcard/Download/app-debug.apk``
 > 确保Download文件夹下, 有``.apk``后缀名的文件.
