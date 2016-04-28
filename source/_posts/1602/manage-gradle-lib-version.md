@@ -1,5 +1,5 @@
 ---
-title: 大型项目 Gradle 的常用库和版本管理
+title: Gradle 的大型项目常用库和版本管理
 date: 2016-03-15 06:44:00
 categories: [Android]
 tags: [Android,Gradle]

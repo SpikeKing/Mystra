@@ -15,7 +15,7 @@ tags: [ReactNative,UIExplorer]
 
 时间: 2016年4月6日, ``React Native`` 最新版, 让我们开始吧.
 
-![React Native](http://7xsdo5.com1.z0.glb.clouddn.com/160406-rn-first-logo.png)
+![React Native](071-rn-uiexplorer/rn-first-logo.png)
 
 > 前置的环境配置, 参考 ReactNative 官网的 [Requirements](https://facebook.github.io/react-native/docs/getting-started.html#requirements) . 需要安装一些工具. 本文介绍在启动项目时, 容易导致的一些问题.
 
@@ -41,7 +41,7 @@ git clone https://github.com/facebook/react-native.git
 
 构建完成之后, RN 的 App 已经成功安装到手机中.
 
-![Android](http://7xsdo5.com1.z0.glb.clouddn.com/160406-rn-first-android.png)
+![Android](071-rn-uiexplorer/rn-first-android.png)
 
 ## 常见错误
 
@@ -123,7 +123,7 @@ adb reverse tcp:8081 tcp:8081
 npm start
 ```
 
-![Server](http://7xsdo5.com1.z0.glb.clouddn.com/160406-rn-first-server.jpg)
+![Server](071-rn-uiexplorer/rn-first-server.jpg)
 
 **晃动** Android 手机, 即进入菜单页面, 选择 ``Reload JS`` 项, 重新加载页面即可显示.
 
@@ -154,7 +154,7 @@ registry=http://registry.npm.taobao.org/
 
 **不要关闭服务**, 运行项目, 会自动加载数据.
 
-![iOS](http://7xsdo5.com1.z0.glb.clouddn.com/160406-rn-first-ios.png)
+![iOS](071-rn-uiexplorer/rn-first-ios.png)
 
 ---
 

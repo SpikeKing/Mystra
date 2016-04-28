@@ -5,7 +5,7 @@ categories: [Android]
 tags: [Android,测试,电量,BatteryHistorian]
 ---
 
-在Android项目中, 较难监控应用的电量消耗, 但是用户却非常关心手机的待机时间. 过度耗电的应用, 会遭到用户无情的卸载, 不要存在侥幸心理, 给竞品带来机会. 因此, 我们需要研究应用的耗电量, 并进行优化. 本文讲解一下[Battery Historian](https://github.com/google/battery-historian), 是一款由Google提供的Android系统电量分析工具. 在网页中展示手机的电量消耗过程, 输入电量分析文件, 显示消耗情况. 最后提供一些电量优化的方法, 可供参考.
+在Android项目中, 较难监控应用的电量消耗, 但是用户却非常关心手机的待机时间. 过度耗电的应用, 会遭到用户无情的卸载, 不要存在侥幸心理, 给竞品带来机会. 因此, 我们需要研究应用的耗电量, 并进行优化. 本文讲解一下[Battery Historian](https://github.com/google/battery-historian), 是一款由Google提供的Android系统电量分析工具, 5.0+显示完整电量信息, 5.0-只显示少量. 在网页中展示手机的电量消耗过程, 输入电量分析文件, 显示消耗情况. 最后提供一些电量优化的方法, 可供参考.
 
 <!-- more -->
 > 更多: http://www.wangchenlong.org/
@@ -79,6 +79,9 @@ go run cmd/battery-historian/battery-historian.go [--port <default:9999>]
 cd $GOPATH/src/github.com/google/battery-historian
 go run cmd/battery-historian/battery-historian.go [--port <default:9999>]
 ```
+
+> ``source .bash_profile`` 更新配置.
+
 在浏览器中, 输入**http://localhost:9999/**, 即可启动电量检测页面.
 
 ![分析](analyze-app-battery/analyze.png)

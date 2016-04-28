@@ -23,32 +23,34 @@ tags: [Android,动画]
 # 首页
 
 首页由正面和背面两张卡片组成, 同时, 设置点击事件**flipCard**.
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<FrameLayout
-    android:id="@+id/main_fl_container"
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:onClick="flipCard"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="me.chunyu.spike.wcl_flip_anim_demo.MainActivity">
 
-    <include
-        layout="@layout/cell_card_back"/>
-
-    <include
-        layout="@layout/cell_card_front"/>
-
-</FrameLayout>
+``` xml
+    <?xml version="1.0" encoding="utf-8"?>
+    <FrameLayout
+        android:id="@+id/main_fl_container"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="flipCard"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context="me.chunyu.spike.wcl_flip_anim_demo.MainActivity">
+    
+        <include
+            layout="@layout/cell_card_back"/>
+    
+        <include
+            layout="@layout/cell_card_front"/>
+    
+    </FrameLayout>
 ```
 
 逻辑, 初始化动画和镜头距离.
-```java
+
+``` java
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -66,7 +68,8 @@ tags: [Android,动画]
 
 初始化**右出(RightOut)**和**左入(LeftIn)**动画, 使用动画集合AnimatorSet.
 当右出动画开始时, 点击事件无效, 当左入动画结束时, 点击事件恢复.
-```java
+
+``` java
     // 设置动画
     private void setAnimators() {
         mRightOutSet = (AnimatorSet) AnimatorInflater.loadAnimator(this, R.animator.anim_out);
@@ -89,54 +92,56 @@ tags: [Android,动画]
 ```
 
 右出动画
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<set xmlns:android="http://schemas.android.com/apk/res/android">
-    <!--旋转-->
-    <objectAnimator
-        android:duration="@integer/anim_length"
-        android:propertyName="rotationY"
-        android:valueFrom="0"
-        android:valueTo="180"/>
 
-    <!--消失-->
-    <objectAnimator
-        android:duration="0"
-        android:propertyName="alpha"
-        android:startOffset="@integer/anim_half_length"
-        android:valueFrom="1.0"
-        android:valueTo="0.0"/>
-</set>
+``` xml
+    <?xml version="1.0" encoding="utf-8"?>
+    <set xmlns:android="http://schemas.android.com/apk/res/android">
+        <!--旋转-->
+        <objectAnimator
+            android:duration="@integer/anim_length"
+            android:propertyName="rotationY"
+            android:valueFrom="0"
+            android:valueTo="180"/>
+    
+        <!--消失-->
+        <objectAnimator
+            android:duration="0"
+            android:propertyName="alpha"
+            android:startOffset="@integer/anim_half_length"
+            android:valueFrom="1.0"
+            android:valueTo="0.0"/>
+    </set>
 ```
 > 旋转180°, 当旋转一半时, 卡片消失.
 
 左入动画
-```xml
-<?xml version="1.0" encoding="utf-8"?>
-<set xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <!--消失-->
-    <objectAnimator
-        android:duration="0"
-        android:propertyName="alpha"
-        android:valueFrom="1.0"
-        android:valueTo="0.0"/>
-
-    <!--旋转-->
-    <objectAnimator
-        android:duration="@integer/anim_length"
-        android:propertyName="rotationY"
-        android:valueFrom="-180"
-        android:valueTo="0"/>
-
-    <!--出现-->
-    <objectAnimator
-        android:duration="0"
-        android:propertyName="alpha"
-        android:startOffset="@integer/anim_half_length"
-        android:valueFrom="0.0"
-        android:valueTo="1.0"/>
-</set>
+``` xml
+    <?xml version="1.0" encoding="utf-8"?>
+    <set xmlns:android="http://schemas.android.com/apk/res/android">
+    
+        <!--消失-->
+        <objectAnimator
+            android:duration="0"
+            android:propertyName="alpha"
+            android:valueFrom="1.0"
+            android:valueTo="0.0"/>
+    
+        <!--旋转-->
+        <objectAnimator
+            android:duration="@integer/anim_length"
+            android:propertyName="rotationY"
+            android:valueFrom="-180"
+            android:valueTo="0"/>
+    
+        <!--出现-->
+        <objectAnimator
+            android:duration="0"
+            android:propertyName="alpha"
+            android:startOffset="@integer/anim_half_length"
+            android:valueFrom="0.0"
+            android:valueTo="1.0"/>
+    </set>
 ```
 
 > 在开始时是隐藏, 逆向旋转, 当旋转一半时, 显示卡片.
@@ -147,7 +152,8 @@ tags: [Android,动画]
 
 改变视角, 涉及到旋转卡片的Y轴, 即rotationY, 需要修改视角距离.
 如果不修改, 则会超出屏幕高度, 影响视觉体验.
-```java
+
+``` java
     // 改变视角距离, 贴近屏幕
     private void setCameraDistance() {
         int distance = 16000;
@@ -162,7 +168,8 @@ tags: [Android,动画]
 # 旋转控制
 
 设置右出和左入动画的目标控件, 两个动画同步进行, 并区分正反面朝上.
-```java
+
+``` java
     // 翻转卡片
     public void flipCard(View view) {
         // 正面朝上
@@ -187,7 +194,6 @@ tags: [Android,动画]
 动画效果
 
 ![旋转卡片](213-implement-flip-card/card-anim.gif)
-
 
 动画效果非常简单, 全部逻辑都不足50行, 这么好玩的动画, 用起来吧.
 

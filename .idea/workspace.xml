@@ -2,51 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccc0753b-bfb3-46f6-8595-4eeb3b8790f3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/source/images/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/161-check-code/check-code-logo.png" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/yelee/source/img/elminster.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/111-rn-open-project/open-project-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer/rn-first-android.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer/rn-first-ios.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer/rn-first-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer/rn-first-server.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game/jing-game-demo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/191-rn-navigator/react-native-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class/rn-es6-class-error.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class/rn-es6-class-logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo/rn-property-anim.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo/rn-property-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/161-check-code.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/191-rn-navigator.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class.md" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman/_config.yml.example" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-hueman" afterPath="$PROJECT_DIR$/themes/hexo-theme-hueman" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next" afterPath="$PROJECT_DIR$/themes/hexo-theme-next" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee" afterPath="$PROJECT_DIR$/themes/yelee" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md" afterPath="$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" afterPath="$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" afterPath="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" afterPath="$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" afterPath="$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" afterPath="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" afterPath="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" afterPath="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md" afterPath="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" afterPath="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim.md" afterPath="$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim.md" afterPath="$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/224-star-explode-anim.md" afterPath="$PROJECT_DIR$/source/_posts/1603/224-star-explode-anim.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md" afterPath="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md" afterPath="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md" afterPath="$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/_config.yml" afterPath="$PROJECT_DIR$/themes/yelee/_config.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md" afterPath="$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md" afterPath="$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/source/css/_variables/base.styl" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/source/css/_variables/base.styl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" afterPath="$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/about/index.md" afterPath="$PROJECT_DIR$/source/about/index.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" afterPath="$PROJECT_DIR$/themes/yelee/layout/_partial/left-col.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md" afterPath="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/package.json" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" afterPath="$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md" afterPath="$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" afterPath="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" afterPath="$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" afterPath="$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md" afterPath="$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GitHubBlog.iws" />
@@ -75,75 +61,133 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="analyze-app-battery.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md">
+      <file leaf-file-name="241-rn-jing-game.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.172414">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="261-rn-es6-class.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.15509601">
+              <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="apply-flux-architecture.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.896552">
+              <caret line="302" column="3" selection-start-line="302" selection-start-column="3" selection-end-line="302" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get-app-cert-and-package.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.862069">
+              <caret line="21" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="281-rx-max-threads.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-40.86207">
+              <caret line="79" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="071-rn-uiexplorer.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.0">
+              <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="171" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="111-rn-open-project.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="111-rn-open-project.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="26" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="121-rn-property-demo.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.642553">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+            <state vertical-scroll-proportion="-0.51724136">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="32" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="77" column="23" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="201-implement-update-app.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md">
           <provider editor-type-id="MarkdownPreviewEditor">
             <state />
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="161-check-code.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1604/161-check-code.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="34" />
+            <state vertical-scroll-proportion="-10.862069">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="191-rn-navigator.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/1604/191-rn-navigator.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.931034">
+              <caret line="243" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -162,22 +206,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/234-android-launch-mode.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1602/kotlin-first.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1602/rx-network-cache.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1602/reverse-analyze-apk.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/207-rxjava-first.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/231-percent-layout-first.md" />
-        <option value="$PROJECT_DIR$/source/_posts/tips/1603/231-android-tips-1.md" />
-        <option value="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2.md" />
         <option value="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3.md" />
         <option value="$PROJECT_DIR$/source/_posts/tips/1603/241-android-tips-4.md" />
         <option value="$PROJECT_DIR$/source/_posts/tips/1603/242-android-tips-5.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/234-activity-launch-mode.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/1603/221-start-page-anim.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/225-face-detect.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/226-recycler-view-first.md" />
@@ -200,19 +233,30 @@
         <option value="$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/224-star-explode-anim.md" />
-        <option value="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md" />
         <option value="$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md" />
         <option value="$PROJECT_DIR$/source/_posts/1604/160407-rn-uiexplorer.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md" />
         <option value="$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md" />
         <option value="$PROJECT_DIR$/themes/hexo-theme-next/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/161-check-code.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/191-rn-navigator.md" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig" />
+        <option value="$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md" />
+        <option value="$PROJECT_DIR$/source/about/index.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md" />
+        <option value="$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class.md" />
       </list>
     </option>
   </component>
@@ -251,8 +295,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -284,22 +328,8 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-theme-next" />
+              <option name="myItemId" value="yelee" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -316,8 +346,14 @@
               <option name="myItemId" value="themes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-theme-next" />
+              <option name="myItemId" value="GitHubBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHubBlog" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -335,33 +371,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hexo-theme-next" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="source" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GitHubBlog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
+              <option name="myItemId" value="about" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -427,7 +441,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="111-rn-open-project" />
+              <option name="myItemId" value="071-rn-uiexplorer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHubBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GitHubBlog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="source" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1603" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -446,22 +482,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="analytics.swig&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/themes/hexo-theme-next/layout/_scripts/third-party/lean-analytics.swig&#10;weibo&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="flux&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1602/apply-flux-architecture.md&#10;card&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/213-implement-flip-card.md&#10;app&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/227-app-bar-first.md&#10;permi&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/204-manage-permission.md&#10;video&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/202-implement-video-timeline.md&#10;snow&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/222-snowflake-anim.md&#10;manag&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1602/manage-gradle-lib-version.md&#10;CoordinatorLayout&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/228-coordinator-layout-first.md&#10;analyze-&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1602/analyze-app-framework.md&#10;perm&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/source/_posts/1603/204-manage-permission.md&#10;sidebar.sw&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/themes/hexo-theme-next/layout/_macro/sidebar.swig&#10;_layout.s&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/themes/hexo-theme-next/layout/_layout.swig&#10;analytics.swig&#9;FILE&#9;file:///Users/wangchenlong/Workspace/Blog/GitHubBlog/themes/hexo-theme-next/layout/_scripts/third-party/lean-analytics.swig&#10;weibo&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo" />
       <recent name="$PROJECT_DIR$/themes/hexo-theme-next/source/images" />
       <recent name="$PROJECT_DIR$/source/_posts/1603" />
       <recent name="$PROJECT_DIR$/source/_posts/tips/1603/241-android-tips-4" />
       <recent name="$PROJECT_DIR$/source/_posts/tips/1603/233-android-tips-3" />
-      <recent name="$PROJECT_DIR$/source/_posts/tips/1603/232-android-tips-2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class" />
+      <recent name="$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game" />
+      <recent name="$PROJECT_DIR$/source/_posts/1604/191-rn-navigator" />
+      <recent name="$PROJECT_DIR$/source/_posts/1604/161-check-code" />
       <recent name="$PROJECT_DIR$/source/_posts/1604/111-rn-open-project" />
-      <recent name="$PROJECT_DIR$/source/_posts/1604/160407-rn-uiexplorer" />
-      <recent name="$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads" />
-      <recent name="$PROJECT_DIR$/source/_posts/tips/1603/242-android-tips-5" />
-      <recent name="$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app" />
     </key>
   </component>
   <component name="RunManager">
@@ -678,9 +714,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1389" height="877" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23385301" sideWeight="0.49183673" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29250187" sideWeight="0.49183673" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32720104" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -688,7 +724,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.325887" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5808147" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43758214" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2724573" sideWeight="0.5081633" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -696,7 +732,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4110672" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40998685" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -717,125 +753,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/235-activity-lifecycle.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/229-card-view-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_partial/after-footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32831737">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo-generator-seo-friendly-sitemap/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6155951">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo-generator-seo-friendly-sitemap/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_partial/after-footer.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32831737">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_partials/head.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo-clean-css/node_modules/clean-css/README.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="113" column="42" selection-start-line="113" selection-start-column="42" selection-end-line="113" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/hexo/node_modules/hexo-cli/assets/themes/landscape/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6361149">
-          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads/160328-threads-device.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/atom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.6065574">
-          <caret line="355" column="11" selection-start-line="355" selection-start-column="11" selection-end-line="355" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/bdunion.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_partials/header.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.087312415">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/google2c73d4e68fd7f1b3.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -850,251 +767,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/f371aa4f032e4227a41f8c894b0b3542.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-droid-plugin.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5172415">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1602/kotlin-extends-point.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/replace-svg-image.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.551724">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/rxandroid-async.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.4827585">
           <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/svg-path-animation.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.86206895">
           <caret line="28" column="48" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-espresso-test-network.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/use-dagger-first.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5172415">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1603/203-implement-webview-goto-app.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5172415">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1603/205-rx-continue-update.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/206-rxbinding-react-event.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/211-show-password-reveal.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5172415">
           <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/233-fragment-tabhost-first.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/232-fragment-shared-element.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1603/224-star-explode-anim.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/223-voice-ripple-anim.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1603/212-anim-circular-reveal.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md">
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.012295">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer/rn-first-android.png">
@@ -1102,69 +932,292 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="77" column="23" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="130" column="18" selection-start-line="130" selection-start-column="18" selection-end-line="130" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/1604/111-rn-open-project/open-project-logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/201-implement-update-app.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/161-check-code/check-code-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/191-rn-navigator/react-native-logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-battery.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.642553">
-          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="7" column="229" selection-start-line="7" selection-start-column="229" selection-end-line="7" selection-end-column="229" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7953615">
+          <caret line="80" column="6" selection-start-line="80" selection-start-column="6" selection-end-line="80" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/yelee/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8158254">
+          <caret line="369" column="15" selection-start-line="369" selection-start-column="15" selection-end-line="369" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_layout.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/hexo-theme-next/layout/_macro/sidebar.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.73397">
+          <caret line="128" column="26" selection-start-line="128" selection-start-column="26" selection-end-line="128" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game/jing-game-demo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class/rn-es6-class-error.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/analyze-app-framework.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/228-coordinator-layout-first.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="678" column="0" selection-start-line="678" selection-start-column="0" selection-end-line="678" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/manage-gradle-lib-version.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/222-snowflake-anim.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/202-implement-video-timeline.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/204-manage-permission.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/227-app-bar-first.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="728" column="14" selection-start-line="728" selection-start-column="14" selection-end-line="728" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/213-implement-flip-card.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.689655">
+          <caret line="196" column="0" selection-start-line="196" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/apply-flux-architecture.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.896552">
+          <caret line="302" column="3" selection-start-line="302" selection-start-column="3" selection-end-line="302" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1602/get-app-cert-and-package.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.862069">
+          <caret line="21" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1603/281-rx-max-threads.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-40.86207">
+          <caret line="79" column="49" selection-start-line="0" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/071-rn-uiexplorer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.0">
+          <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="171" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/111-rn-open-project.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="26" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/121-rn-property-demo.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.51724136">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/161-check-code.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.862069">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/191-rn-navigator.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.931034">
+          <caret line="243" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="332" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/241-rn-jing-game.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.172414">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1604/261-rn-es6-class.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15509601">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

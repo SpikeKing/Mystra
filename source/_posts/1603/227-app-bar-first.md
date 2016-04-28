@@ -716,6 +716,7 @@ public class ImageAnimator {
 ```
 
 修复滚动Bug, 连续滚动时, 及时更新当前图片, 否则图片异常.
+
 ```java
     /**
      * 终止滑动
