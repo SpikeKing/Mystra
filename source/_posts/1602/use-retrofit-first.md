@@ -22,6 +22,34 @@ tags: [Android,Retrofit,网络,架构]
 
 ---
 
+# 项目配置
+
+配置依赖: ``Lambda表达式``, ``Retrofit2``, ``GsonConverter``, ``RxJavaAdapter``, ``RxAndroid``, ``Logging``.
+
+```
+plugins {
+    id "me.tatarka.retrolambda" version "3.2.5"
+}
+// ...
+android {
+    // ...
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8;
+        targetCompatibility JavaVersion.VERSION_1_8;
+    }
+}
+dependencies {
+    // ...
+    compile 'com.squareup.retrofit2:retrofit:2.0.2'
+    compile 'com.squareup.retrofit2:converter-gson:2.0.2'
+    compile 'com.squareup.retrofit2:adapter-rxjava:2.0.2'
+    compile 'io.reactivex:rxandroid:1.1.0'
+    compile 'com.squareup.okhttp3:logging-interceptor:3.0.0-RC1'
+}
+```
+
+---
+
 # 基本请求
 
 使用接口, 区分**Get**和**Post**方法.

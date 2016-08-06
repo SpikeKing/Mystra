@@ -5,9 +5,12 @@ date: 2016-03-12 07:43:01
 
 学习: 本科与硕士均毕业于北京交通大学软件工程
 工作: 吉林银行->长春卷烟厂->中科院自动化研究所->春雨移动健康
+
+目前从事移动开发与算法研究的工作.
+
 PS: *[春雨](http://www.chunyuyisheng.com/)*招聘, 想加入工作或实习的朋友, 选好[职位](http://www.lagou.com/gongsi/4510.html)直接发邮件, 内推.
 
-2011年至今, 做了五年技术, 还会一直坚持下去. 
+2011年至今, 已经做了六年技术, 还会一直坚持下去. 
 喜欢分享一些开发经验与生活感悟.
 
 欢迎Follow我的[GitHub](https://github.com/SpikeKing), 关注我的[简书](http://www.jianshu.com/users/e2b4dd6d3eb4/latest_articles), [CSDN](http://blog.csdn.net/caroline_wendy), [掘金](http://gold.xitu.io/#/user/56de98c2f3609a005442ec58). 

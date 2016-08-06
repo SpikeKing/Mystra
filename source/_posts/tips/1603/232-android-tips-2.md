@@ -1,5 +1,5 @@
 ---
-title: Android Tips (2)
+title: Android Tips 2
 date: 2016-02-23 20:58:00
 categories: [Tips]
 tags: [Android,Tips]

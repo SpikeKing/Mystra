@@ -1,5 +1,5 @@
 ---
-title: Android Tips (4)
+title: Android Tips 4
 date: 2016-02-24 10:16:00
 categories: [Tips]
 tags: [Android,Tips]
